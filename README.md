@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shifali Gwal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shifali Gwal</h1> -->
 
-<h4 align="center">Full - Stack Developer from India</h4>
+<!-- <h4 align="center">Full - Stack Developer from India</h4> -->
 
 <p align="center">
-  <!-- <img src="./assets/cover.png" height=300/> -->
+  <img src="./assets/cover.png"/>
 </p>
 
 - 🌱 I’m currently working on **MERN Stack**
