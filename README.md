@@ -3,7 +3,7 @@
 <!-- <h4 align="center">Full - Stack Developer from India</h4> -->
 
 <p align="center">
-  <img src="./assets/cover.png"/>
+  <img src="./assets/Cover.png"/>
 </p>
 
 - 🌱 I’m currently working on **MERN Stack**
