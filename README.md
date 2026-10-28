@@ -1,28 +1,100 @@
-<h1 align="center">Hi 👋, I'm Shifali Gwal</h1>
+# Hey, I'm Shifali 👋
 
-<!-- <h4 align="center">Full - Stack Web Developer from India</h4> -->
+**Frontend Engineer & UI/UX Designer** · I design and build fast, conversion-focused web products, from the Figma file to the production deploy.
+📍 Bengaluru, India · 🟢 Open to work (hybrid / remote) · 🔗 [LinkedIn](https://www.linkedin.com/in/theshifaligwal)
 
-<p align="center">
-  <img src="./assets/Cover.png"/>
-</p>
+---
 
-- 🌱 I’m currently working on **MERN Stack**
+```js
+const shifali = {
+  role: "Frontend Engineer & UI/UX Designer",
+  education: ["M.Tech CSE (2024-2026)", "B.Tech CSE"],
+  shippingSince: 2022,
+  writes: ["TypeScript", "JavaScript", "Python"],
+  designsIn: "Figma",
+  believes: "good design and fast code are the same job",
+  enjoys: ["performance (Core Web Vitals)", "SEO", "design systems", "mentoring interns"],
+  tinkersWith: ["Jotai", "Vite", "Turborepo"],
+  originStory: "web design intern → full-stack developer → frontend engineer → UI/UX designer",
+  lookingFor: ["Frontend Engineer", "UI/UX Designer", "Design Engineer"],
+};
+```
 
-- 💬 Ask me about **React.Js , Node.Js, Rest API, Express.Js and many more stuff**
+### What I do
 
-- 📫 How to reach me **gwal.shifali2223@gmail.com**
+I turn product ideas into fast, usable, revenue-driving web apps. I design flows and interfaces in **Figma**, then build them in **React, Next.js and Tailwind CSS**. I care about the numbers that users feel (load time, layout stability, conversion), and I back design decisions with user research.
 
+### Impact I've delivered
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Theshifaligwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Theshifaligwal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/theshifaligwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theshifaligwal" height="30" width="40" /></a>
+| Where | What I shipped | Result |
+| --- | --- | --- |
+| **Origin** · Web Developer | D2C web app on Next.js App Router + Tailwind | LCP **0.8 s**, CLS **0.03** on 4G |
+| **Origin** | Wallet & rewards engine | Average order value **+27%**, **₹1.6 crore** in redemptions |
+| **Origin** | SEO playbook (dynamic OG tags, sitemap, structured data) | Organic traffic **+58%** in 8 weeks |
+| **Origin** | Real-time event listeners for in-app React Native WebViews | Crash reports **-43%** |
+| **Madras Mandi** · Full-stack Developer | React → Next.js migration (SSR + ISR) | Page load **-2.4 s**, bundle **-210 kB** |
+| **Madras Mandi** | Instant Delivery (location-aware slots + dispatch ETA) | Daily orders **1.7x** (2k → 3.4k) |
+| **Madras Mandi** | OgClub B2B portal (role-based dashboards, bulk orders) | **₹4.2 crore** monthly GMV |
+| **Madras Mandi** | GitLab CI with a 250 kB gzip performance budget | Blocks performance regressions |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### My UI/UX journey
 
-<!-- Github stats -->
-|<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshifaligwal" alt="theshifaligwal" height="200px"/></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshifaligwal&show_icons=true&locale=en&layout=compact" alt="theshifaligwal" height="200px"/></p>|
-|--|--|
+| When | Chapter |
+| --- | --- |
+| 2019 | Web designing internship at World Wide College: JS, Bootstrap, HTML5, REST, PHP7 and MySQL |
+| 2022 | Full-stack intern: Node.js inventory microservice and automated visual regression tests |
+| 2022-2024 | Full-stack developer at Madras Mandi: performance, migrations, B2B and consumer products |
+| 2024 | Web developer at Origin: Next.js, wallet and rewards, SEO |
+| 2026 | Freelance UI/UX designer with JaisPro: company website and e-commerce website, backed by user research |
 
-<!-- [![Shifali's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theshifaligwal&theme=xcode)](https://git.io/theshifaligwal) -->
+### M.Tech dissertation
+
+**Performance Analysis of Supervised Learning Algorithms on Structured Data** (Oct 2024 - Jul 2026, Shri Venkateshwara University)
+
+- Benchmarked **8 algorithms** (Logistic Regression, KNN, Naive Bayes, Decision Tree, Random Forest, SVM, XGBoost, MLP) on **4 UCI datasets** (Adult, Wine Quality, Heart Disease, Letter Recognition).
+- Scored with accuracy, precision, recall, F1, AUC-ROC and training time, using grid-search tuning and stratified 5-fold cross-validation.
+- Validated with **Friedman and Nemenyi tests**: **XGBoost ranked best** (average rank 1.50), followed by Random Forest (2.00).
+- Built as a reproducible Python pipeline with scikit-learn, XGBoost, pandas and SciPy.
+
+### Tech stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=ts,js,py,html,css)
+
+**Frontend & Design**
+
+![Frontend and design](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma)
+
+**Backend & Data**
+
+![Backend and data](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,firebase)
+
+**Tooling**
+
+![Tooling](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman)
+
+Also: Redux-Saga, React Native WebViews, SSR / ISR, Core Web Vitals, SEO, user research, machine learning.
+
+### Featured repositories
+
+| Project | What it is |
+| --- | --- |
+| [**ecom-client**](https://github.com/theshifaligwal/ecom-client) / [**ecom-server**](https://github.com/theshifaligwal/ecom-server) | E-commerce app, front end + back end |
+| [**inbound-social-media-client**](https://github.com/theshifaligwal/inbound-social-media-client) / [**server**](https://github.com/theshifaligwal/inbound-social-media-server) | Social media app, front end + back end |
+| [**noteZipper-client**](https://github.com/theshifaligwal/noteZipper-client) / [**server**](https://github.com/theshifaligwal/noteZipper-Server) | Full-stack notes app |
+| [**quiz-manager**](https://github.com/theshifaligwal/quiz-manager) | Quiz management app (TypeScript) |
+| [**2d-room-drafting-application**](https://github.com/theshifaligwal/2d-room-drafting-application) | 2D room drafting tool |
+
+### Open to work
+
+I'm currently open to **Frontend Engineer, UI/UX Designer and Design Engineer** roles in **Bengaluru (hybrid or remote)**. I also mentor interns and enjoy developer-experience tooling, so if you're building something where design and engineering meet, let's talk.
+
+### Let's connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/theshifaligwal)
+[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Theshifaligwal)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theshifaligwal&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/theshifaligwal)
+
+*Designing it. Building it. Making it fast.*
