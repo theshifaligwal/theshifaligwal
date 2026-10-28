@@ -1,6 +1,6 @@
 # Hey, I'm Shifali 👋
 
-**Frontend Engineer & UI/UX Designer** · I design and build fast, conversion-focused web products, from the Figma file to the production deploy.
+**Frontend Engineer & UI/UX Designer** · I design and build fast, conversion-focused web products, from the Figma file to the production deploy.  
 📍 Bengaluru, India · 🟢 Open to work (hybrid / remote) · 🔗 [LinkedIn](https://www.linkedin.com/in/theshifaligwal)
 
 ---
