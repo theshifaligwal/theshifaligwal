@@ -37,7 +37,7 @@ I turn product ideas into fast, usable, revenue-driving web apps. I design flows
 | **Madras Mandi** | OgClub B2B portal (role-based dashboards, bulk orders) | **₹4.2 crore** monthly GMV |
 | **Madras Mandi** | GitLab CI with a 250 kB gzip performance budget | Blocks performance regressions |
 
-### My UI/UX journey
+### Career timeline
 
 | When | Chapter |
 | --- | --- |
@@ -45,7 +45,16 @@ I turn product ideas into fast, usable, revenue-driving web apps. I design flows
 | 2022 | Full-stack intern: Node.js inventory microservice and automated visual regression tests |
 | 2022-2024 | Full-stack developer at Madras Mandi: performance, migrations, B2B and consumer products |
 | 2024 | Web developer at Origin: Next.js, wallet and rewards, SEO |
-| 2026 | Freelance UI/UX designer with JaisPro: company website and e-commerce website, backed by user research |
+| 2024-2026 | M.Tech in Computer Science and Engineering, Shri Venkateshwara University |
+| 2026 | Freelance UI/UX designer with JaisPro |
+
+### UI/UX journey
+
+I started my UI/UX work in **2026** as a **freelance UI/UX Designer with JaisPro** (Mar 2026 - Aug 2026).
+
+- Designed the **JaisPro company website** and an **e-commerce website**, backed by proper user research so the UX was well grounded.
+- I design flows and interfaces in **Figma**, then build them in React, Next.js and Tailwind CSS, so design and code stay connected.
+- I'm now looking for **UI/UX Designer and Design Engineer** roles.
 
 ### M.Tech dissertation
 
